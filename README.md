@@ -1,0 +1,2 @@
+# combinatorics
+Javascript combinatorics functions
